@@ -1,0 +1,22 @@
+*
+{
+    margin: 0; 
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+
+body
+{
+    font: 400 14px sans-serif; 
+    background: #f0f0f5;
+}
+
+form input
+{
+    width: 100%;
+    color: #333333;
+    border: 1px solid #dcdce6;
+    border-radius: 8px;
+    padding: 0 24px;
+}   
